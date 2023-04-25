@@ -1,0 +1,39 @@
+#cabeza{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+#submit{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.botonPlan a{
+    color: white;
+    border-radius: 18px;
+    width: 20%;
+    padding: 12px;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+#botonagregar{
+    text-align: center;
+}
+
+.botonPlan:hover a{
+    background:  #ff9933;
+    color: white;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+
+#boton{
+    text-align: center;
+}
